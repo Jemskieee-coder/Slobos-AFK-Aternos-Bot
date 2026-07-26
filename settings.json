@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "SigmaBoy09",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "SchoolSMP-byE2.aternos.me",
+    "port": 28901,
     "version": "",
     "try-creative": false
   },
@@ -29,10 +29,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 180,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "I'm a sigma player",
+        "Subscribe to MicoTheBuilder",
         "I like to play Minecraft!"
       ]
     },
