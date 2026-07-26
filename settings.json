@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SchoolSMP-byE2.aternos.me",
+    "ip": "mooneye.aternos.host:28901",
     "port": 28901,
     "version": "",
     "try-creative": false
